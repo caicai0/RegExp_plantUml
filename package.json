@@ -1,0 +1,16 @@
+{
+  "name": "zzfx",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "liyufeng",
+  "license": "ISC",
+  "dependencies": {
+    "async": "^2.6.2",
+    "child_process": "^1.0.2",
+    "lei-stream": "^1.4.2"
+  }
+}
