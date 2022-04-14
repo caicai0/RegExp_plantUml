@@ -9,7 +9,7 @@
   "author": "liyufeng",
   "license": "ISC",
   "dependencies": {
-    "async": "^2.6.2",
+    "async": "^3.2.2",
     "child_process": "^1.0.2",
     "lei-stream": "^1.4.2"
   }
